@@ -164,11 +164,7 @@ ii) Using Weighted Averaging Filter
 </br>
 </br>
 </br>
-
-
-
-
-
+![img2](dip6-2.jpg)
 
 iii) Using Gaussian Filter
 </br>
@@ -197,7 +193,7 @@ i) Using Laplacian Kernal
 </br>
 </br>
 </br>
-
+![img5](dip6-5.jpg)
 
 
 
